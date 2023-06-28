@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20210416
 
 LABEL maintainer="lucas@vieira.io"
 LABEL version="1.0"
